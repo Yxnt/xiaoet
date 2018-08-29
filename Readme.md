@@ -6,8 +6,11 @@
 使用前修改内容
 ----
 APPID：PC版登陆后的URL中有
+
 XIAOEID：COOKIE中XIAOEID
+
 RESOURCEID：某个课程的ID，点击课程后URL最后的id=
+
 sessionid：COOKIE中的laravel_session
 
 
