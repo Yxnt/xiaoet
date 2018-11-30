@@ -24,4 +24,6 @@ pip install -r requirements.txt
 python xiaoet.py
 ```
 
+已知错误：[已知错误](../../wiki/已知错误)
+
 其他文档见：[WIKI](https://github.com/Yxnt/xiaoet/wiki)
